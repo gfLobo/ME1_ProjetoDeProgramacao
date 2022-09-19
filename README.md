@@ -15,11 +15,11 @@ CONTEÚDOS A SEREM TRABALHADOS:
 
 <img width="10%" src="https://badgen.net/badge/Pacotes/-"/>
 
-<img width="10%" src="https://badgen.net/badge/ControlesㅤdeㅤAcesso/-"/>
+<img width="10%" src="https://badgen.net/badge/Controles_de_Acesso/-"/>
 
-<img width="10%" src="https://badgen.net/badge/MétodosㅤEstáticos/-"/>
+<img width="10%" src="https://badgen.net/badge/Métodos_Estáticos/-"/>
 
-<img width="10%" src="https://badgen.net/badge/PassagemㅤdeㅤParâmetros/-"/>
+<img width="10%" src="https://badgen.net/badge/Passagem_de_Parâmetros/-"/>
 
 </p>
 
